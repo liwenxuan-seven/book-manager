@@ -51,7 +51,7 @@ export default {
 
                  localStorage.setItem('maho-manager-name',JSON.stringify(respUser.data))
                  localStorage.setItem('maho-manager-token',resp.data.token)
-                 this.$router.push('/')
+                 this.$router.push('/home')
                }
              })
            }else {
