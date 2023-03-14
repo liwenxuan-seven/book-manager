@@ -1,0 +1,11 @@
+[
+  {"id": 1,
+  "bookName": "Vue前端设计",
+  "price": 57},
+  {"id": 2,
+    "bookName": "js百炼成仙",
+    "price": 27},
+  {"id": 3,
+    "bookName": "我，无所不能",
+    "price": 47}
+]
