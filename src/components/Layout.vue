@@ -62,7 +62,7 @@ export default {
 .main{
   position: absolute;
   /* background-color: #1e2020; */
-  left:200px;
+  left:120px;
   right: 0px;
   bottom: 0px;
   top:50px;

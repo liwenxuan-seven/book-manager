@@ -44,4 +44,5 @@ export default {};
   border-left: 3px solid rgb(130, 126, 126);
   left: 10px;
 }
+
 </style>

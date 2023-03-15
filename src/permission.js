@@ -27,6 +27,6 @@ router.beforeEach((to,from,next) => {
                 }
             })
         }
-        this.$router.push('/login')
+        // this.$router.push('/login')
     }
 })
